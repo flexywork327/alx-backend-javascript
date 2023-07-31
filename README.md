@@ -9,6 +9,7 @@ This repository contains all the projects done during the ALX Software Engineeri
 1. [0x00. ES6, basics](./0x00-ES6_basics)
 2. [0x01. ES6, Promise](./0x01-ES6_promise)
 3. [0x02. ES6, classes](./0x02-ES6_classes)
+4. [0x03. ES6, data manipulation](./0x03-ES6_data_manipulation)
 
 ## Author
 
